@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Mortylar/Mortylar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mortylar/Mortylar** is a ✨ _special_ ✨ repository because its `DO_NOT_README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
